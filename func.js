@@ -7,7 +7,7 @@ function condition (num) {
     } else {
         console.log ("bigger than 12");
     }
-}; 
+}
 
 module.exports.condition;
 
